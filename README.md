@@ -9,3 +9,6 @@ $ dotnet run "Hello" "2" "world" ":-)"
 Результат:	[ '2', ':-)' ]
 ```
 2. Запустить программу без аргументов командной строки и ввести данные следуя указаниям программы
+
+### Блок-схема
+![flowchart](https://drive.google.com/uc?id=18EIDJr6k-LNFwuHiWCh5VyweaQSHgGDz)
